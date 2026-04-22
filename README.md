@@ -1,14 +1,7 @@
-## Hi there 👋
+💖 About Me
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: simranrya8989@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
--->
+🔭 Currently learning AI/ML and full stack
+🎀 Passionate about ERP innovation, AI, and building smarter business solutions
+🌱 Always learning, growing, and experimenting with new tools
+📫 Reach me at: simranarya8989@gmail.com
+😄 Pronouns: she/her
